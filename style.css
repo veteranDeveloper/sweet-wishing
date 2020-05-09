@@ -8,6 +8,11 @@ span {
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+img {
+  image-orientation: from-image;
+}
+
 video {
   display: block;
   margin-left: auto;
